@@ -17,7 +17,7 @@ Write your react/redux code in the /src folder
 Install dependendices using `npm i`  
 Create a database called `acme-pager`  
 Use `npm run seed` to seed the database  
-To build and start the server `npm run start:dev`
+To build and start the server `npm run  start:dev`
 
 ## Stretch Goals
 
